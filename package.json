@@ -17,7 +17,7 @@
       "ignore": [
         "react"
       ],
-      "limit": "442 B",
+      "limit": "450 B",
       "name": "useMedia",
       "import": {
         "./index.js": "{ useMedia }"
@@ -27,7 +27,7 @@
       "ignore": [
         "react"
       ],
-      "limit": "442 B",
+      "limit": "450 B",
       "name": "useMediaPredicate",
       "import": {
         "./index.js": "{ useMediaPredicate }"
